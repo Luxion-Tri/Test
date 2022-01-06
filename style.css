@@ -7,8 +7,10 @@
     width: 100%;
     height: 50px;
     background-color: #efefef;
-    padding: 5px ;
+    padding: 5px;
+    font-weight: bold;
 }
+
 
 .hello {
     height: 23rem;
